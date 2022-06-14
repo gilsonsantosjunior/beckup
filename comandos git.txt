@@ -1,4 +1,11 @@
 git init > habilida a sincronização
 git status > ve os arquivos que foram ou nao atualizados
 git add "arquivo.extensao" ("meucodigo.txt")
+git add . >> adiciona todos os arquivos pendentes
+git commit -m "commit inicial"
+git config --global user.email "email....."
+git config --global user.name "nome...."
+git push 
+git remote add origin (botao direito para add)
+
  
